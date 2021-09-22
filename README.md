@@ -12,7 +12,7 @@ Tested with TIC-80 0.90.1723, packed with
 [pactic](https://github.com/phlubby/pactic). pactic should pack it down to 128
 bytes. Remember to add -c option.
 
-Greets: superogue, NuSan, psenough, p01, pactic authors and TIC-80 devs.
+Greets: superogue, NuSan, psenough, p01, havoc, pactic authors and TIC-80 devs.
 
 License: [MIT](LICENSE)
 

@@ -1,1 +1,1 @@
-python pactic/pactic.py -c cthulhu128.lua -o cthulhu128_packed.tic
+python pactic/pactic.py -c cthulhu128_unpacked.lua -o cthulhu128.tic
